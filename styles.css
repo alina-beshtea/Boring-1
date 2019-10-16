@@ -1,9 +1,11 @@
-h2.intro {
-  font-weight: bold;
-}
-p.intro {
+
+.intro {
+
+
   font-style: italic;
 }
-img.intro {
 
-}
+ .books {
+   font-style: italic;
+   font-weight: bold;
+ }
